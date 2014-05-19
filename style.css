@@ -1,0 +1,114 @@
+/*
+*Copyright 2014 CheckoutCrypto and CheckoutCrypto Canada
+*/
+
+.page {
+   /* width: 1000px; */
+    height: 720px;
+}
+/* MAIN HEADER */
+.header {
+    height:60px;
+    background-color:white;
+	border-bottom:5px solid #1E91F3;
+}
+.logo {
+    float:left;
+    margin-left:50px;
+	margin-top:5px;
+    height:50px;
+    width:120px;
+}
+.head_menu {
+padding-left:10px;
+margin-left:200px;
+    float:left;
+    margin-top:20px;
+    height:30px;
+    width: 55%;
+    color: green;
+}
+.head_menu_layout {
+	width:100%;
+
+}
+#a.head_menu {
+    color:red;
+}
+.head_menu_itm {
+	width:200px;
+}
+
+/* MAIN CONTENT */
+.main {
+}
+.menu {
+     width:150px;
+     background-color:red;
+     height:300px;
+}
+.content {
+    background-color:white;
+	min-height:150px;
+}
+.form{
+    margin-left:350px;
+    width:400px;
+}
+/* GETNEWADDRESS */
+.qr_layout {
+	float:left;
+	width:50%;
+	margin-left:35%;
+}
+
+.address_desc {
+	float:left;
+	padding:2px;
+	margin-left:38%;
+	text-align:center;
+	width:360px;
+	border:1px solid #1e91f3;
+}
+
+/* REFRESH COIN */
+.coin_layout{
+	float:left;
+	width:100%;
+}
+.coin_single{
+	float:left;
+	margin-left:25%;
+	width:55%;
+}
+.coin_image{
+padding:10px;
+	float:left;
+	width:150px;
+	height:150px;
+}
+.coin_desc{
+	float:left;
+	height:40px;
+	margin-top:25px;
+	margin-left:25px;
+}
+
+/* MAIN FOOTER */
+.footer {
+	height:40px;
+    color: blue;
+    background-color:white;
+}
+
+.foot_layout {
+	border-top:1px solid #E5E5E5;
+	padding-top: 10px ;
+	padding-left:60px;
+	height:100%;
+	width:100%;
+}
+
+.foot_layout_item {
+	width:35%;
+}
